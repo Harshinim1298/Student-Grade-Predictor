@@ -1,3 +1,7 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/espoirMur/Student-Grade-Predictor) 
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/espoirMur/Student-Grade-Predictor) 
+
 # Memory-Working-Directory
 
 In the digital age, Tera-bytes of data is generated per the second by Mobiles devices, digitals photographs, web documents, facebook updates, tweets, blogs, user-generated, Transactions, sensors data, surveillance data, queries, clicks, browsing;cheap storage has made possible to maintain this data, but it has been unused while it contains useful information and insights, that why we need data mining: **_the process of analyzing large amounts of data in an effort to find correlations, patterns, and insights_**
